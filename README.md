@@ -1,5 +1,7 @@
 # Tarea de tarjetas
 
+Hecho por Giuliano Jaramillo
+
 ## Descripción del proyecto
 
 Se realizaron las dos tarjetas que se pidio como tarea que se replicaran, se uso HTML y CSS.
